@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ivan Dorta 👋</h1>
 
-- 🔭 I’m currently working on **my web**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **my portfolio web**
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Amazing Projects**
 - 💬 Ask me about ** React, JavaScript, CSS, SASS, MySQL, Git, REST API, TypeScript or Node.js**
 - 📫 How to reach me: **ivandoza@gmail.com**
