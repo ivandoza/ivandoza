@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan Dorta 👋
+<h1 align="center">Hi there, I'm Ivan Dorta 👋</h1>
 
 - 🔭 I’m currently working on **my web**
 - 🌱 I’m currently learning **React Native**
