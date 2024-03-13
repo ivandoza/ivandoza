@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ivan Dorta 👋</h1>
 
-- 🔭 I’m currently working on **my portfolio web**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Amazing Projects**
-- 💬 Ask me about ** React, JavaScript, CSS, SASS, MySQL, Git, REST API, TypeScript or Node.js**
+- 🔭 I’m currently working on **My portfolio web**
+- 🌱 I’m currently learning **Angular**
+- 👯 I’m looking to collaborate on **new projects**
+- 💬 Ask me about ** React, JavaScript, CSS, SASS, Git, REST API, TypeScript or Node.js**
 - 📫 How to reach me: **ivandoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
