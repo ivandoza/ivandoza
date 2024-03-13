@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ivan Dorta 👋</h1>
 
-- 🔭 I’m currently working on **My portfolio web**
+- 🔭 I’m currently working on **My own website**
 - 🌱 I’m currently learning **Angular**
 - 👯 I’m looking to collaborate on **new projects**
 - 💬 Ask me about ** React, JavaScript, CSS, SASS, Git, REST API, TypeScript or Node.js**
