@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Angular<br>💬 Ask me about ** React, JavaScript, CSS, REST API, TypeScript or Node.js**<br>📫 How to reach me: ivandoza@gmail.com<br>💻 Portfolio: ivandorta.dev
+🔭 I’m currently working on personal projects<br>🌱 I’m currently learning Angular<br>💬 Ask me about ** React, JavaScript, CSS, REST API, TypeScript or Node.js**<br>📫 How to reach me: ivandoza@gmail.com<br>💻 Portfolio: [ivandorta.dev](https://ivandorta.dev/)
 
 
 ## 🌐 Socials:
